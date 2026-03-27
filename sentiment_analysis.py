@@ -1,5 +1,5 @@
 # %% [markdown]
-# # DAT 402 Project 2
+# # Amazon Sentiment Classification
 # **Author:** Jeongwoo Kim  
 # **Date:** 2025-12-01
 
